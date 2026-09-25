@@ -1,10 +1,12 @@
 {
-  "name": "Pony Journey V5 — The Equestrian Life",
+  "name": "Pony Journey",
   "short_name": "Pony Journey",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#eee7db",
-  "theme_color": "#3e5c43",
+  "background_color": "#101712",
+  "theme_color": "#173322",
+  "orientation": "any",
+  "description": "Fictional equestrian riding, Horse Management, rally and career game.",
   "icons": [
     {
       "src": "icon-192.svg",
